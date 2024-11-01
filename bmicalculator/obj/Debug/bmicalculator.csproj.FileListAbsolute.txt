@@ -1,0 +1,10 @@
+C:\Users\chand\OneDrive\Desktop\BMI Calculator\bmicalculator\bmicalculator\bin\Debug\bmicalculator.exe.config
+C:\Users\chand\OneDrive\Desktop\BMI Calculator\bmicalculator\bmicalculator\bin\Debug\bmicalculator.exe
+C:\Users\chand\OneDrive\Desktop\BMI Calculator\bmicalculator\bmicalculator\bin\Debug\bmicalculator.pdb
+C:\Users\chand\OneDrive\Desktop\BMI Calculator\bmicalculator\bmicalculator\obj\Debug\bmicalculator.csproj.AssemblyReference.cache
+C:\Users\chand\OneDrive\Desktop\BMI Calculator\bmicalculator\bmicalculator\obj\Debug\bmicalculator.Form1.resources
+C:\Users\chand\OneDrive\Desktop\BMI Calculator\bmicalculator\bmicalculator\obj\Debug\bmicalculator.Properties.Resources.resources
+C:\Users\chand\OneDrive\Desktop\BMI Calculator\bmicalculator\bmicalculator\obj\Debug\bmicalculator.csproj.GenerateResource.cache
+C:\Users\chand\OneDrive\Desktop\BMI Calculator\bmicalculator\bmicalculator\obj\Debug\bmicalculator.csproj.CoreCompileInputs.cache
+C:\Users\chand\OneDrive\Desktop\BMI Calculator\bmicalculator\bmicalculator\obj\Debug\bmicalculator.exe
+C:\Users\chand\OneDrive\Desktop\BMI Calculator\bmicalculator\bmicalculator\obj\Debug\bmicalculator.pdb
